@@ -46,7 +46,7 @@
     transition: .5s;
 }
 
-.active {
+.active{
     color: coral
 }
 
@@ -111,11 +111,89 @@
     cursor: pointer
 }
 
+#courser {
+    padding: 30px 0;
+}
 
+.courser-wrapper {
+    
+}
 
+.box{
+    width: 33.3%;
+    float: left;
+    text-align: center;
+}
 
+.box img {
+    max-width: 100%;
+    height: 120px
+}
 
+.footer {
+    text-align: center;
+    padding: 30px 0;
+    background-color: coral;
+    color: #fff;
+    margin-top: 30px
+}
 
+/* Secon lesson */
 
+#banner-about {
+    
+}
 
+.banner-section {
+    
+}
 
+.box-left{
+    width: 65%;
+    float: left;
+}
+
+.black{
+    background-color: #35424a;
+    color: #fff;
+    padding: 15px
+}
+
+.box-right{
+    width: 30%;
+    float: right
+}
+
+/* Banner services section */
+
+#banner-services {
+    
+}
+
+.box-l-servis{
+    width: 65%;
+    float: left
+}
+
+.bg-box-servis {
+    background-color: rgb(208, 208, 208);
+    padding: 20px;
+    margin-top: 5px
+}
+
+.box-right-services {
+    float: right;
+    width: 30%;
+}
+
+.box-right-services input, label, textarea{
+    width: 85%;
+    padding: 10px 1px;
+}
+.box-right-services button{
+    background-color: coral;
+    color: #fff;
+    padding: 10px;
+    width: 20%;
+    border: 1px solid coral
+}
